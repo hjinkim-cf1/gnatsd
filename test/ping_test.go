@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/apcera/gnatsd/server"
+	"github.com/hjinkim-cf1/gnatsd/server"
 )
 
 const (
