@@ -7,9 +7,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/apcera/gnatsd/auth"
-	"github.com/apcera/gnatsd/logger"
-	"github.com/apcera/gnatsd/server"
+	"github.com/hjinkim-cf1/gnatsd/auth"
+	"github.com/hjinkim-cf1/gnatsd/logger"
+	"github.com/hjinkim-cf1/gnatsd/server"
 )
 
 func main() {
