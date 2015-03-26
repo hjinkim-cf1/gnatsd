@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"github.com/apcera/gnatsd/server"
+	"github.com/hjinkim-cf1/gnatsd/server"
 )
 
 type Token struct {

@@ -11,8 +11,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/apcera/gnatsd/hash"
-	"github.com/apcera/gnatsd/hashmap"
+	"github.com/hjinkim-cf1/gnatsd/hash"
+	"github.com/hjinkim-cf1/gnatsd/hashmap"
 )
 
 // A Sublist stores and efficiently retrieves subscriptions. It uses a

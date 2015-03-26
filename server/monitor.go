@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/apcera/gnatsd/sublist"
+	"github.com/hjinkim-cf1/gnatsd/sublist"
 )
 
 // Connz represents detail information on current connections.
