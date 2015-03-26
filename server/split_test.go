@@ -7,8 +7,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/apcera/gnatsd/hashmap"
-	"github.com/apcera/gnatsd/sublist"
+	"github.com/hjinkim-cf1/gnatsd/hashmap"
+	"github.com/hjinkim-cf1/gnatsd/sublist"
 )
 
 func TestSplitBufferSubOp(t *testing.T) {
