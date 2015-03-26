@@ -11,7 +11,7 @@ import (
 	"errors"
 	"unsafe"
 
-	"github.com/apcera/gnatsd/hash"
+	"github.com/hjinkim-cf1/gnatsd/hash"
 )
 
 // HashMap stores Entry items using a given Hash function.
