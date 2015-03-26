@@ -17,7 +17,7 @@ import (
 	// Allow dynamic profiling.
 	_ "net/http/pprof"
 
-	"github.com/apcera/gnatsd/sublist"
+	"github.com/hjinkim-cf1/gnatsd/sublist"
 )
 
 // Info is the information sent to clients to help them understand information
